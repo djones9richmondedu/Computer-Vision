@@ -1,7 +1,7 @@
 ## [AI Desk Object Sorter]
 
 ## Project Description
-This project uses Google's Teachable Machine to classify common objects found on my desk. The objects classified were:
+This project uses Google's Teachable Machine to classify common objects found on my desk.
 <br><br>
 ## Classes Identified
 Pens
