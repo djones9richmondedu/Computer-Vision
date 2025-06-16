@@ -3,10 +3,12 @@
 ## Project Description
 This project uses Google's Teachable Machine to classify common objects found on my desk. The objects classified were:
 
+## Classes Identified
 Pens
 <br><br>Storage Media
 <br><br>Cables
 
+## Discussion & Reflection
 1.  **Model Performance & Iteration:**
 The first model was 100% accurate. The training data was comprised of close to 10,000 images of 3 classes of object: pens, storage media, and cables. To test generality, a novel object, a pen not used in the training set, was uploaded to the model. The model was accurate in identifying the novel pen.
 <br><br>Due to the high number of training images, there doesn't seem to be the need to iterate on model performance.
